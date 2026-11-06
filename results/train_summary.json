@@ -1,0 +1,29 @@
+{
+  "params": 32645,
+  "initial_loss": 1.7174337037809413,
+  "chosen_alpha": 0.5,
+  "best_epoch": 25,
+  "train_loss": 0.05398398148045726,
+  "val_loss": 0.07079609385103855,
+  "train_acc": 0.9844794984707927,
+  "val_acc": 0.9792118789263278,
+  "train_time_sec": 40.627299785614014,
+  "hardware": "CPU",
+  "lr_table": {
+    "0.01": {
+      "lowest_val_loss": 0.16240671819479108,
+      "val_acc_at_that_epoch": 0.9575099942889778,
+      "epoch": 30
+    },
+    "0.1": {
+      "lowest_val_loss": 0.08282919062470655,
+      "val_acc_at_that_epoch": 0.9760137064534552,
+      "epoch": 30
+    },
+    "0.5": {
+      "lowest_val_loss": 0.07079609385103855,
+      "val_acc_at_that_epoch": 0.9792118789263278,
+      "epoch": 25
+    }
+  }
+}

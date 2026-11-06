@@ -1,0 +1,2 @@
+max diff W3 = 2.980e-08
+max diff b3 = 5.960e-08
